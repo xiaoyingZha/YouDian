@@ -1,0 +1,49 @@
+/*reset*/
+/*<<用到谁就清除谁!!!>>*/
+
+body,p,h1,h2,h3,h4,h5,h6,hr,dl,dd,form{
+  margin: 0;
+}
+
+
+/*list reset*/
+ul,ol{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+
+/*a reset*/
+a{
+  text-decoration: none;
+  color: #000;
+
+  /*移动端的默认样式：解决移动端点击时a标签出现背景色*/
+  /*PC端不需要*/
+  /*-webkit-tap-highlight-color: transparent;*/
+
+}
+
+/*img reset*/
+img{
+  vertical-align: top;
+  border: none;
+}
+
+
+/*table reset*/
+table{
+  /*单元格合并*/
+  border-collapse: collapse;
+}
+th,td{
+  padding: 0;
+}
+
+
+/*form reset*/
+input{
+  padding: 0;
+  border-width: 0;
+}
