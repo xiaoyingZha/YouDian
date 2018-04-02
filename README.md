@@ -6,7 +6,7 @@
 
 > A Vue.js project
 
-## Vue-cli、VantUI
+## 技术栈：Vue-cli+Vuex+Vue-router、VantUI组件库
 
 ## Build Setup
 
