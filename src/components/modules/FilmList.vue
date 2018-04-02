@@ -17,6 +17,7 @@
 </template>
 
 <script>
+  //到当前组件的开发啦
     export default {
       name: "film-list",
       data(){

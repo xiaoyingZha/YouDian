@@ -1,5 +1,9 @@
  ## YouDian
 
+ > author:xiaoyingZhao
+ > email:761909269@qq.com
+
+
 > A Vue.js project
 
 ## Vue-cli、VantUI
