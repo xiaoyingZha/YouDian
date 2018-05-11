@@ -1,7 +1,6 @@
  ## YouDian
 
- > author:xiaoyingZhao
- > email:761909269@qq.com
+ > author:Ada
 
 
 > A Vue.js project
